@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "955977642150",
+    "project_id": "royalefoods-2cbd0",
+    "storage_bucket": "royalefoods-2cbd0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955977642150:android:dfdebd4471982b17a3c467",
+        "android_client_info": {
+          "package_name": "com.example.royalfoods"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955977642150-v1o9ofbuv6umnor6jivja7ltutp8kr22.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYyML0lhlFrkA8olLQuCDPx0gNz2rmgJw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955977642150-v1o9ofbuv6umnor6jivja7ltutp8kr22.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
